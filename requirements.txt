@@ -1,0 +1,9 @@
+install:
+1. Python
+2. OpenCV
+3. Numpy
+4. Matplolib
+5. SciPy
+6. Torch
+7. Pandas
+8. Shutil
